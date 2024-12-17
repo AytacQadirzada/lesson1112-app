@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/lesson1112-app/static/css/main.3265a72c.css",
+    "main.js": "/lesson1112-app/static/js/main.56f7a162.js",
+    "static/media/logo.svg": "/lesson1112-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/lesson1112-app/index.html",
+    "main.3265a72c.css.map": "/lesson1112-app/static/css/main.3265a72c.css.map",
+    "main.56f7a162.js.map": "/lesson1112-app/static/js/main.56f7a162.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3265a72c.css",
+    "static/js/main.56f7a162.js"
+  ]
+}
